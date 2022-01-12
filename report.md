@@ -1,6 +1,9 @@
 # Acrobot with Reinforcement learning
 ### Acrobot Envirement
 ![](https://i.postimg.cc/3JDvJgrk/alii.png)
+
+
+
 The envirement is two-dimensional and it consist of an Acrobot  game, in which a robotic arm is composed of two joints and two links and the joint between the two links is actued. In the beginning, the links are hanging downwards. The goal of the task is to move the end of the lower link up to a given height 
 ### Observation Space
 The state of the agent can be indicated by the following variables :

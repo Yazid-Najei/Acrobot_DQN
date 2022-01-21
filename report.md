@@ -27,7 +27,7 @@ The episode ends when lower link of the arm reaches a given height , The episode
 
 ##Implementation
 # The learning algorithm
-# DQN
+# Reinforce
 ## Model architecture and  hyperparameters
 The model is a neural network that takes as input the dimension of the state space and returns the optimal q-value corresponding to each possible action. Since there are three possible actions to move the robotic arm, the number of outputs returned are 3.
 ##### Hyperparameters

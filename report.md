@@ -34,7 +34,7 @@ The model is a neural network that takes as input the dimension of the state spa
 - Discount factor for target Q : GAMMA = 0.99
 - Size of minibatch : batch_size=10
 - Number of episodes : 3000
-- Policy network : DQN
+
 
 # The detailed results
 ![](https://i.postimg.cc/gcLVn9Nc/dsds.png)
